@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Send this Data to Second Activity</string>
+    <string name="ApplicationName">ActivitySamples</string>
+</resources>

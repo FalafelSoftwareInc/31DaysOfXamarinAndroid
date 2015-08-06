@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="3"
+    android:columnCount="3">
+    <TextView
+        android:text="Cell 0,0"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:layout_margin="10dp" />
+    <TextView
+        android:text="Cell 0,1"
+        android:layout_row="0"
+        android:layout_column="1"
+        android:layout_margin="10dp" />
+    <TextView
+        android:text="Cell 0,2"
+        android:layout_row="0"
+        android:layout_column="2"
+        android:layout_margin="10dp" />
+    <TextView
+        android:text="Cell 1,0 and Cell 2,0"
+        android:background="#a30000"
+        android:layout_height="50dp"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:layout_rowSpan="2"
+        android:layout_margin="10dp" />
+    <TextView
+        android:text="Cell 1,1 and Cell 1,2"
+        android:background="#00a313"
+        android:layout_row="1"
+        android:layout_column="1"
+        android:layout_columnSpan="2"
+        android:layout_margin="10dp" />
+    <TextView
+        android:text="Cell 2,1"
+        android:layout_row="2"
+        android:layout_column="1"
+        android:layout_margin="10dp" />
+    <TextView
+        android:text="Cell 2,2"
+        android:layout_row="2"
+        android:layout_column="2"
+        android:layout_margin="10dp" />
+</GridLayout>
