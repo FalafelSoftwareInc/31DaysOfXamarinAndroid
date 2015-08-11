@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">SpinnerWithCustomAdapter</string>
+    <string name="movie_prompt">Pick a movie</string>
+</resources>

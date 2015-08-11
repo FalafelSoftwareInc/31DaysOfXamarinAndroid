@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="StartService">Start Service</string>
+  <string name="StopService">Stop Service</string>
+    <string name="ApplicationName">ServicesSample</string>
+</resources>

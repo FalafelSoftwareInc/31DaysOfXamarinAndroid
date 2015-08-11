@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">SimpleSpinner</string>
+  <string name="movie_prompt">Pick a movie</string>
+  <string-array name="movies_array">
+    <item>A New Hope</item>
+    <item>Attack of the Clones</item>
+    <item>The Phantom Menace</item>
+    <item>Revenge of the Sith</item>
+    <item>Return of the Jedi</item>
+    <item>The Empre Strikes Back</item>
+    <item>The Force Awakens</item>
+  </string-array>
+
+</resources>

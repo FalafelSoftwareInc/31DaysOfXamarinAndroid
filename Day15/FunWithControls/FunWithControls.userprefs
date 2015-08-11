@@ -1,0 +1,37 @@
+﻿<Properties StartupItem="FunWithControls/FunWithControls.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FunWithControls/TimePickerSampleActivity.cs">
+    <Files>
+      <File FileName="FunWithControls/DatePickerSampleActivity.cs" Line="28" Column="20" />
+      <File FileName="FunWithControls/MainActivity.cs" Line="18" Column="10" />
+      <File FileName="FunWithControls/DatePickerFragment.cs" Line="22" Column="102" />
+      <File FileName="FunWithControls/TimePickerSampleActivity.cs" Line="16" Column="12" />
+      <File FileName="FunWithControls/TimePickerFragment.cs" Line="28" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FunWithControls" expanded="True">
+            <Node name="FunWithControls" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="TimePickerSample.axml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="FunWithControls" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FunWithControls AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
