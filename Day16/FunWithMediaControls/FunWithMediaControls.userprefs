@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="FunWithMediaControls/FunWithMediaControls.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="FunWithMediaControls/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FunWithMediaControls AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
