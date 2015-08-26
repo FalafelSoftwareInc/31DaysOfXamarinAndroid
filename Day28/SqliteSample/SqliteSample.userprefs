@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="SqliteSample/SqliteSample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SqliteSample/MainActivity.cs">
+    <Files>
+      <File FileName="SqliteSample/MainActivity.cs" Line="32" Column="14" />
+      <File FileName="SqliteSample/ToDoItem.cs" Line="1" Column="1" />
+      <File FileName="SqliteSample/TodoItemRepository.cs" Line="1" Column="1" />
+      <File FileName="SqliteSample/DatabaseFilePathRetriever.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SqliteSample AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
